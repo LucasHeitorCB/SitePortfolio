@@ -21,11 +21,6 @@ httpcore==0.9.1
 httpx==0.13.3
 hyperframe==5.2.0
 idna==2.10
-Kivy==2.3.1
-Kivy-Garden==0.1.5
-kivy_deps.angle==0.4.0
-kivy_deps.glew==0.3.1
-kivy_deps.sdl2==0.8.0
 libretranslatepy==2.1.1
 lxml==5.3.0
 packaging==25.0
