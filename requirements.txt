@@ -31,7 +31,6 @@ python-decouple==3.8
 python-dotenv==1.1.0
 python-telegram-bot==13.15
 pytz==2024.2
-pywin32==308
 requests==2.32.3
 rfc3986==1.5.0
 setuptools==75.6.0
